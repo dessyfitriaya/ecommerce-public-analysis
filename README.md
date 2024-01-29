@@ -8,4 +8,6 @@ pipenv shell
 pip install numpy pandas scipy matplotlib seaborn jupyter
 ```
 ## Run streamlit app
-`streamlit run dashboard.py`
+```
+streamlit run dashboard.py
+```
