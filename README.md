@@ -13,6 +13,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter
 ```
 streamlit run dashboard.py
 ```
-[!NOTE]
-- Anda bisa mengaksesnya secara [online](https://dashboardpy-l65otgkeuhhfaxwiu8yc2l.streamlit.app/). Reboot app apabila terjadi error
-- Saya terbuka terhadap saran dan perbaikan😊
+> [!NOTE]
+> - Anda bisa mengaksesnya secara [online](https://dashboardpy-l65otgkeuhhfaxwiu8yc2l.streamlit.app/). Reboot app apabila terjadi error
+> - Saya terbuka terhadap saran dan perbaikan😊
