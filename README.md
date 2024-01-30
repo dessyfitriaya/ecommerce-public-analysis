@@ -1,5 +1,5 @@
 # E-commerce Olist Dashboard :star:
-Repositori ini berisi proyek akhir untuk memenuhi syarat kelulusan kelas **Belajar Analisis Data dengan Python**. Proyek akhir tersebut merupakan sebuah aplikasi web Streamlit yang menampilkan dashboard hasil analisis data suatu [E-commerce di Brazil](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). Berikut adalah langkah-langkah untuk menjalankan aplikasi web secara lokal
+Repositori ini berisi proyek akhir untuk memenuhi syarat kelulusan kelas Dicoding yaitu **Belajar Analisis Data dengan Python**. Proyek akhir tersebut merupakan sebuah aplikasi web Streamlit yang menampilkan dashboard hasil analisis data suatu [E-commerce di Brazil](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). Berikut adalah langkah-langkah untuk menjalankan aplikasi web secara lokal
 
 ## Setup environment
 ```
